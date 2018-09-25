@@ -1,15 +1,11 @@
 ## Last Week's Accomplishments
 
 > In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+This week I researched about about Flask, Bootstrap, and RESTful api.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+Complete the flask turorial and comntinue to learn bootstrap.
 
 ## Anything Blocking?
 
