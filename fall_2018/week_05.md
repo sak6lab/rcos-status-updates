@@ -10,7 +10,8 @@ Started templates and attended bonus session
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
-Learn Node.js
+Learn React.js
+start templates
 > Examples: New Bugs to be fixed, Design choices
 
 ## Anything Blocking?
