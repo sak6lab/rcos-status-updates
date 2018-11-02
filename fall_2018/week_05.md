@@ -20,5 +20,5 @@ Learn Node.js
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
 ## Notes
-Data structures take a lot of time
+Data structures took a lot of time
 > This is an optional section for any sort of information that does not fall under any of the other categories.
