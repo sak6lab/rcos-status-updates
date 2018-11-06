@@ -15,9 +15,10 @@ This week I plan to continue to learn ReactJS by adding to tic-tac-toe applicati
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.
-I am having trouble with knowing where to start and understanding the workflow of creating templates
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+I am having trouble with knowing where to start and understanding the workflow of creating templates
+
 
 ## Notes
-Data structures takes a lot of time that could be used to make templates
 > This is an optional section for any sort of information that does not fall under any of the other categories.
+Data structures takes a lot of time that could be used to make templates
