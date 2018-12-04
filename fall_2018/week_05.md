@@ -1,25 +1,13 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-Started templates and attended bonus session
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+finished article template and attended bonus session
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-Learn React.js
-start templates
-> Examples: New Bugs to be fixed, Design choices
+Learn ReactJS as we switched our front end technology from flask.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
 ## Notes
-Data structures take a lot of time
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+Data structures takes a lot of time.
