@@ -1,19 +1,15 @@
 ## Last Week's Accomplishments
 
 > In this section, you can write about what you accomplished in the previous week.
-Continued learning flask and bootstrap
-started templates
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+Continued learning flask and bootstrap. I extended the tutorial's application by adding the bootstrap styling
+started article templates
+
 
 ## This Week's Plan
-wire more templates
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+Wireframe more templates
 
 ## Anything Blocking?
-
+Still confused with flask's syntax in building view templates
 > In this section, you can write about any blockers that you are having trouble in the project.
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
