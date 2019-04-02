@@ -1,11 +1,10 @@
 ## Last Week's Accomplishments
-Finished Search page functionailty with mock data.
+Finished Search page functionailty with mock data. I also defined how the article markdown should be structured.
 
 ## This Week's Plan
-Plan to work on making site cohesive.
+Work on making a fleshed out sample article about python lists in accordance with the test projects for content. 
 
 ## Anything Blocking?
-Definition of how data will be given to me. We need to make sure all spaceport devs know purpose and I think even though we are not directly working on backend we should have an idea on how it works and laid out.
 
 ## Notes
 N/A
